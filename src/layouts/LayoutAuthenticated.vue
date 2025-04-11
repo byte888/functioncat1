@@ -76,7 +76,7 @@ const menuClick = (event, item) => {
       <FooterBar>
         Get more with
         <a href="https://tailwind-vue.justboil.me/" target="_blank" class="text-blue-600"
-          >Premium version</a
+          >Premium Pro Max Ultra version</a
         >
       </FooterBar>
     </div>
